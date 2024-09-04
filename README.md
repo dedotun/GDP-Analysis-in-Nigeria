@@ -40,7 +40,7 @@ Gross Domestic Product (GDP) is a critical economic indicator that reflects the 
 ## Data Model
 The data was first normalize in Excel before being transformed in Power query. The raw data was split into norminal and real GDP and the indirect tax was separated. A date table was also created in Power Query.
 
-![Data Model](https://github.com/dedotun/GDP-Analysis-in-Nigeria/blob/main/assets/Data%20Model.png)
+![Data Model](https://github.com/dedotun/GDP-Analysis-in-Nigeria/blob/main/assets/gdp%20model.png)
 
 ## Dashboard Insights
 ### Overview
