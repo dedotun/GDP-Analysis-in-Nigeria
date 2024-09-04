@@ -36,7 +36,12 @@ Gross Domestic Product (GDP) is a critical economic indicator that reflects the 
 
 ## Data Source
 <a href = "https://nigerianstat.gov.ng/elibrary/read/1241549"> National Bureau of Statistics </a>
+
 ## Data Model
+The data was first normalize in Excel before being transformed in Power query. The raw data was split into norminal and real GDP and the indirect tax was separated. A date table was also created in Power Query.
+
+![Data Model](https://github.com/dedotun/GDP-Analysis-in-Nigeria/blob/main/assets/Data%20Model.png)
+
 ## Dashboard Insights
 ### Overview
 ### GDP by Sector Analysis
