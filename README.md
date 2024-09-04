@@ -44,8 +44,28 @@ The data was first normalize in Excel before being transformed in Power query. T
 
 ## Dashboard Insights
 ### Overview
+- The current quarter GDP is 18.5 Trillion following 16.35% decrease compare to the previous quarter.
+- There is 2.79% increase is real GDP this year comapre to this time the previuos year.
+
+![Overview Dashborad](https://github.com/dedotun/GDP-Analysis-in-Nigeria/blob/main/assets/gdp%20overview.jpeg)
+
 ### GDP by Sector Analysis
+- The Agricultural sector 23.67% is the highest contributor for the duration of the study
+- Admin and support service sector 0.2% is the lowest contributor for duration of the analysis
+
+![GDP by Sector](https://github.com/dedotun/GDP-Analysis-in-Nigeria/blob/main/assets/Screenshot%202024-09-04%20123545.png)
 
 ## Recommendations
+- Invest in Education and Skills Development: Enhancing the quality of education and vocational training can create a more skilled workforce, which is essential for economic growth.
+- Improve Infrastructure: Investing in infrastructure such as roads, bridges, and telecommunications can facilitate trade and improve efficiency.
+- Promote Innovation and Technology: Encouraging research and development (R&D) and adopting new technologies can boost productivity and create new industries. This will reduce seasonal effect specifically on the   Agricultural sector.
+- Enhance Healthcare: A healthy population is more productive. Investing in healthcare can reduce absenteeism and increase the overall productivity of the workforce.
+- Support Small and Medium Enterprises (SMEs): SMEs are often the backbone of the economy. Providing them with access to finance, training, and markets can stimulate economic activity.
+- Implement Sound Fiscal Policies: Maintaining a stable macroeconomic environment through prudent fiscal policies can attract investment and foster economic stability.
+- Encourage Foreign Direct Investment (FDI): Creating a favorable business environment can attract FDI, which brings in capital, technology, and expertise.
+- Focus on Sustainable Development: Investing in green technologies and sustainable practices can ensure long-term economic growth while protecting the environment.
+- Enhancing Security: Promoting a more secure environment for investors and economic players.
 
 ## Download
+<a href = "https://github.com/dedotun/GDP-Analysis-in-Nigeria/raw/main/assets/Nigeria%20GDP%20Overview%20-%20Adedotun%20Awe.pbix"> Downlaod the Power BI file.</a>
+
