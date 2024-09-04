@@ -23,13 +23,20 @@ Gross Domestic Product (GDP) is a critical economic indicator that reflects the 
 - Offer contextual explanations for observed GDP trends and growth rate, linking economic events, climate and seasonality, and policies to their potential impacts on Nigeria's GDP.
 
 ## Tools
+- Power BI
+- Excel
 
 ## Techniques and Skills
+- Data Normalization
+- Data Transformation with Power Query
+- Data Modelling
+- Bookmarks
+- Report Automation
+- Data Visualization
 
 ## Data Source
-
+<a href = "https://nigerianstat.gov.ng/elibrary/read/1241549"> National Bureau of Statistics </a>
 ## Data Model
-
 ## Dashboard Insights
 ### Overview
 ### GDP by Sector Analysis
