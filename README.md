@@ -56,16 +56,17 @@ The data was first normalize in Excel before being transformed in Power query. T
 ![GDP by Sector](https://github.com/dedotun/GDP-Analysis-in-Nigeria/blob/main/assets/Screenshot%202024-09-04%20123545.png)
 
 ## Recommendations
-- Invest in Education and Skills Development: Enhancing the quality of education and vocational training can create a more skilled workforce, which is essential for economic growth.
-- Improve Infrastructure: Investing in infrastructure such as roads, bridges, and telecommunications can facilitate trade and improve efficiency.
-- Promote Innovation and Technology: Encouraging research and development (R&D) and adopting new technologies can boost productivity and create new industries. This will reduce seasonal effect specifically on the   Agricultural sector.
-- Enhance Healthcare: A healthy population is more productive. Investing in healthcare can reduce absenteeism and increase the overall productivity of the workforce.
-- Support Small and Medium Enterprises (SMEs): SMEs are often the backbone of the economy. Providing them with access to finance, training, and markets can stimulate economic activity.
-- Implement Sound Fiscal Policies: Maintaining a stable macroeconomic environment through prudent fiscal policies can attract investment and foster economic stability.
-- Encourage Foreign Direct Investment (FDI): Creating a favorable business environment can attract FDI, which brings in capital, technology, and expertise.
-- Focus on Sustainable Development: Investing in green technologies and sustainable practices can ensure long-term economic growth while protecting the environment.
-- Enhancing Security: Promoting a more secure environment for investors and economic players.
+- Agricultural activity, while important, has faced challenges such as adverse weather conditions and insecurity, leading to slower growth.
+- As of the first quarter of 2024, Nigeria's economy has shown a growth rate of 2.8%.
+- The real GDP is projected to remain 22 trillion by the end of 2024 and trend around 23 trillion naira in 2025.
+- Addressing the challenges faced by the agricultural sector, such as insecurity and adverse weather conditions, is essential for sustainable growth. This could involve policy interventions and investments in     
+  agricultural infrastructure.
+- Investing in education and healthcare can enhance productivity and contribute to long-term economic growth. This is critical for improving the standard of living and overall economic well-being.
+- Developing and implementing robust economic policies that support private sector growth, improve the business environment, and enhance public sector efficiency can help in achieving sustained economic growth.
+- Utilizing time series analysis and other statistical methods to decompose GDP data into its component parts can help in making accurate predictions and interventions. This approach can assist in identifying   
+  trends and anomalies, enabling better economic planning.
+- Investing in infrastructure such as transportation, utilities, and public administration can support economic growth by improving the efficiency of various sectors and enhancing overall economic activity.
 
 ## Download
-<a href = "https://github.com/dedotun/GDP-Analysis-in-Nigeria/raw/main/assets/Nigeria%20GDP%20Overview%20-%20Adedotun%20Awe.pbix"> Downlaod the Power BI file.</a>
+<a href = "https://github.com/dedotun/GDP-Analysis-in-Nigeria/raw/main/assets/Nigeria%20GDP%20Overview%20-%20Adedotun%20Awe.pbix"> Downlaod the Power BI file</a>
 
